@@ -38,13 +38,13 @@ URL: https://doi.org/10.1038/s41378-023-00592-2
   > Robots often perform precise multidimensional control by relying on accurate motors or mechanical devices, while novel types of soft robots can only be controlled by material deformation of soft actuators with a simple actuation method. However, the nonlinear deformation of soft materials is difficult to predict, which makes it difficult for soft robots to deal with complex operating requirements.
 
 - Проведенные авторами эксперименты c ползающим мягким роботом. Было проведено несколько лабораторных экспериментов, в ходе которых лежачему мягкому роботу удалось переместиться на некоторое расстояние с помощью ползающих движений, которые были реализованы путем сокращения приводов.
-> Блок "Results and discussion: Crawling soft robots"
+  > Блок "Results and discussion: Crawling soft robots"
 
 - Проведенные авторами эксперименты c перекатывающимся мягким роботом. Было проведено несколько лабораторных экспериментов, в ходе которых стоячему мягкому роботу удалось переместиться на некоторое расстояние с помощью перекатывающихся движений, которые были реализованы путем перемещения барицентра и сокращения приводов.
-> Блок "Results and discussion: Rolling soft robot"
+  > Блок "Results and discussion: Rolling soft robot"
 
 - Проведенные авторами эксперименты c подобным рту мягким роботом. Было проведено несколько лабораторных экспериментов, в ходе которых подвешеннему мягкому роботу подобному рту удалось переместить предмет на некоторое расстояние с помощью захватывающих движений, которые были реализованы путем сокращения всех приводов.
-> Блок "Results and discussion: Mouthlike soft robot"
+  > Блок "Results and discussion: Mouthlike soft robot"
 
 - Анализ полученных результатов, выявление ограничений возможностей конструкции - максимальное подаваемое напряжение, максимальный угол деформации, количество циклов деформации, не снижающих основные характеристики.
   > Блок "Results and discussion"
